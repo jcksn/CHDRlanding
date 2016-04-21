@@ -1,6 +1,6 @@
-# Foundation libsass template
+# CHDR Landing page
 
-This is a template to start your own project that uses Grunt and libsass!
+Sexy landing page that uses Grunt and libsass!
 
 ## Requirements
 
@@ -13,7 +13,7 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
+git clone https://github.com/jcksn/CHDRlanding.git
 npm install && bower install
 ```
 
